@@ -2,6 +2,8 @@
 
 <p>👨🏻‍💻 Freelance Frontend developer</p>
 
+📚 Studying: React, React Native, JavaScript,  CSS 3 , HTML 5.
+
 <div align="center">
   <p>MY STATS:</p>
   <a href="https://github.com/mirianyesposi">
